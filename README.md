@@ -14,5 +14,5 @@ hank hill
 
 #more practice 
 `sudo apt-get install something`
-[a link](www.youtube.com)
+[a link](https://www.youtube.com)
 
