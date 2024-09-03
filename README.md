@@ -6,7 +6,13 @@ hey this is a question
 
 #jit stuff 
 some jit things 
+> a quote
 
 # list of contributors 
 bobby hill
 hank hill
+
+#more practice 
+`sudo apt-get install something`
+[a link](www.youtube.com/trololo)
+
